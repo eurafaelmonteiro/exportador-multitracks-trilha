@@ -2,6 +2,11 @@
 
 Ferramenta gratuita e open source para exportar cenas, repertórios e faixas avulsas do **Trilha Playback** em arquivos de áudio prontos para ensaio, estudo ou split tracks (L/R).
 
+<p align="center">
+  <img src="cena.png" alt="Seleção de Cenas - Exportador Multitracks Trilha" width="48%" />
+  <img src="biblioteca.png" alt="Seleção da Biblioteca - Exportador Multitracks Trilha" width="48%" />
+</p>
+
 ## Funcionalidades
 - **Exportação por Cena ou Biblioteca:** Exporta o repertório completo na ordem exata ou músicas selecionadas individualmente.
 - **Fidelidade à Mixagem:** Mantém volumes por faixa, mutes, transposição de tom (pitch shift sem alterar bateria/percussão) e ajuste de andamento (BPM).
@@ -21,4 +26,5 @@ git clone https://github.com/eurafaelmonteiro/exportador-multitracks-trilha.git
 cd exportador-multitracks-trilha
 pip install -r requirements.txt
 python Exportador_Multitrack.py
+
 
