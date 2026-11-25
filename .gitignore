@@ -4,3 +4,5 @@ Instalador_Pronto/
 __pycache__/
 *.spec
 mapa_campos.json
+PUBLICAR_TUDO.bat
+publicar_github.ps1
