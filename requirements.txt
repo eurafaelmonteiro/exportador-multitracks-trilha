@@ -1,0 +1,6 @@
+﻿customtkinter
+pillow
+numpy
+pedalboard
+static-ffmpeg
+pyinstaller

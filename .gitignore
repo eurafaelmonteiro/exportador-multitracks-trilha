@@ -1,0 +1,6 @@
+﻿build/
+dist/
+Instalador_Pronto/
+__pycache__/
+*.spec
+mapa_campos.json
