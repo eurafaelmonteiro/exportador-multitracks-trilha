@@ -17,7 +17,7 @@ Ferramenta gratuita e open source para exportar cenas, repertórios e faixas avu
 
 ## Como Rodar pelo Código-Fonte (Para Desenvolvedores)
 ```bash
-git clone https://github.com//exportador-multitracks-trilha.git
+git clone https://github.com/eurafaelmonteiro/exportador-multitracks-trilha.git
 cd exportador-multitracks-trilha
 pip install -r requirements.txt
 python Exportador_Multitrack.py
